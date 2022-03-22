@@ -1,0 +1,114 @@
+{
+  "customers": [
+    {
+      "first_name": "Jan",
+      "last_name": "Nejedlý",
+      "email": "jNejedly@seznam.cz",
+      "phone": "346-862-3248",
+      "Address": "378 Tremis str",
+      "City": "Pokracno",
+      "State": "OP",
+      "groups": [
+        "Group2",
+        "Group3"
+      ],
+      "id": 16
+    },
+    {
+      "first_name": "Tereza",
+      "last_name": "Drava",
+      "email": "tDrava@seznam.cz",
+      "phone": "310-687-6479",
+      "Address": "102 Klomsy str",
+      "City": "Potemky",
+      "State": "LP",
+      "groups": [
+        "Group1",
+        "Group4"
+      ],
+      "id": 17
+    },
+    {
+      "first_name": "Radim",
+      "last_name": "Votsky",
+      "email": "rVotsky@seznam.cz",
+      "phone": "722-364-3597",
+      "Address": "742 Montesa str",
+      "City": "Milano",
+      "State": "IT",
+      "groups": [
+        "Group2",
+        "Group4"
+      ],
+      "id": 23
+    },
+    {
+      "first_name": "Monika",
+      "last_name": "Černá",
+      "email": "mČerna@seznam.cz",
+      "phone": "310-987-3598",
+      "Address": "102 Klomsy str",
+      "City": "Pardubice",
+      "State": "ZW",
+      "groups": [],
+      "id": 25
+    },
+    {
+      "first_name": "Denis",
+      "last_name": "Trapmny",
+      "email": "dTrapmny@seznam.cz",
+      "phone": "462-4631-6871",
+      "Address": "569 Motrey str",
+      "City": "Monako",
+      "State": "RO",
+      "groups": [
+        "Group3",
+        "Group4"
+      ],
+      "id": 26
+    },
+    {
+      "first_name": "Filip",
+      "last_name": "Horky",
+      "email": "fHorky@seznam.cz",
+      "phone": "679-876-4226",
+      "Address": "309 Svoboda str",
+      "City": "Mnichov",
+      "State": "DE",
+      "groups": [
+        "Group3",
+        "Group4",
+        "Group2",
+        "Group1"
+      ],
+      "id": 28
+    },
+    {
+      "first_name": "Karel",
+      "last_name": "Bledy",
+      "email": "kBledy@seznam.cz",
+      "phone": "389-462-9217",
+      "Address": "401 Deplote str",
+      "City": "Benatky",
+      "State": "IT",
+      "groups": [
+        "Group3",
+        "Group1"
+      ],
+      "id": 29
+    },
+    {
+      "first_name": "Michala",
+      "last_name": "Rychla",
+      "email": "mRychla@seznam.cz",
+      "phone": "146-987-5489",
+      "Address": "612 Trenso str",
+      "City": "Nisas",
+      "State": "VF",
+      "groups": [
+        "Group1"
+      ],
+      "id": 30
+    }
+  ]
+}
